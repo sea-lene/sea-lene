@@ -2,7 +2,7 @@
 #### I am a full stack developer. 
 
 <div>
-<div><img src="https://cdn.dribbble.com/users/389914/screenshots/6665910/__love_____.gif" alt="me" width="400" height="300"/><div>
+<div><img align="right" src="https://cdn.dribbble.com/users/389914/screenshots/6665910/__love_____.gif" alt="me" width="400" height="300"/><div>
 <div>I love to solve real world problems by providing software solution. I enjoy working with technologies like Angular, Java, SpringBoot and python. I am ML Enthusiast.
 Always excited to learn new things and to get new experiences.<div>
 </div>
@@ -18,7 +18,9 @@ Always excited to learn new things and to get new experiences.<div>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SuhaneeMavar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/SuhaneeMavar/)  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhaneemavar&show_icons=true&locale=en&layout=compact" alt="suhaneemavar" /></p>
+ <div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhaneemavar&show_icons=true&locale=en&layout=compact" alt="suhaneemavar" /></p>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SuhaneeMavar)  
+ </div>
  

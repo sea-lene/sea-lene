@@ -21,6 +21,6 @@ Always excited to learn new things and to get new experiences.<div>
  <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhaneemavar&show_icons=true&locale=en&layout=compact" alt="suhaneemavar" /></p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SuhaneeMavar)  
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SuhaneeMavar" alt="suhaneemavar" /></p>
  </div>
  

@@ -15,9 +15,6 @@ Always excited to learn new things and to get new experiences.<div>
 - 😄 Pronouns: She/ Her 
 - ⚡ Fun fact: Good at art and sculpting 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SuhaneeMavar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/SuhaneeMavar/)  
-
 <div align="center">
  <p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=suhaneemavar&show_icons=true&locale=en&layout=compact" alt="suhaneemavar" /></p>
 

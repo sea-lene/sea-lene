@@ -10,7 +10,7 @@ Always excited to learn new things and to get new experiences.<div>
  
  
  - 🌱 I’m currently exploring new opportunities.
-- 📫 How to reach me: suhaneemavar01@gmail.com | Linked-In - https://www.linkedin.com/in/suhanee-mavar-1b9807213/
+- 📫 How to reach me: suhaneemavar01@gmail.com 
 - 😄 Pronouns: She/ Her 
 - ⚡ Fun fact: Besides programming, I am good at art and sculpting
 

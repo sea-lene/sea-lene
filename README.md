@@ -1,16 +1,18 @@
 ## Hi there 👋, Welcome ! My name is Suhanee
-### I am a full stack developer. 
+### I am a iOS app developer. 
 
 <div>
 <div><img align="right" src="https://cdn.dribbble.com/users/389914/screenshots/6665910/__love_____.gif" alt="me" width="400" height="300"/><div>
-<div>I love to work on chellenging project that provide solutions to certain real world problems. I enjoy working with technologies like Angular, Node JS, Java, SpringBoot and python. I am ML & IOT Enthusiast.
-Always excited to learn new things and to get new experiences.<div>
+<div>Presently working at a startup as an intern. I love to work on chellenging project that provide solutions to certain real world problems. I am willing to contribute to opensource projects. 
+
+ I share my experinces, learnings and quality tech content on twitter. You can reach out to me by email, linked in or twitter.
+ 
+ Happy Coding !!
+<div>
 </div>
- 
- 
- 
- - 🌱 I’m currently exploring new opportunities.
-- 📫 How to reach me: suhaneemavar01@gmail.com 
+
+ - 🌱 I’m currently exploring open source iOS App projects to start open source contribution.
+- 📫 How to reach me: suhaneemavar01@gmail.com || twitter
 - 😄 Pronouns: She/ Her 
 - ⚡ Fun fact: Besides programming, I am an award winning sculptor and a sketch artist
 

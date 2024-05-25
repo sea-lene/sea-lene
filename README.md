@@ -3,16 +3,13 @@
 
 <div>
 <div><img align="right" src="https://cdn.dribbble.com/users/389914/screenshots/6665910/__love_____.gif" alt="me" width="400" height="300"/><div>
-<div>Presently working at a startup as an intern. I love to work on chellenging project that provide solutions to certain real world problems. I am willing to contribute to opensource projects. 
-
- I share my experinces, learnings and quality tech content on twitter. You can reach out to me by email, linked in or twitter.
+<div>Presently working at a startup as an SDE I love to work on chellenging project that provide solutions to certain real world problems. I am willing to contribute to opensource projects. 
  
  Happy Coding !!
 <div>
 </div>
 
- - 🌱 I’m currently exploring open source iOS App projects to start open source contribution.
-- 📫 How to reach me: suhaneemavar01@gmail.com || twitter
+ - 🌱 I’m currently exploring open source projects to start contribution.
 - 😄 Pronouns: She/ Her 
 - ⚡ Fun fact: Besides programming, I am an award winning sculptor and a sketch artist
 

@@ -1,5 +1,5 @@
 ## Hi there 👋, Welcome ! My name is Suhanee
-### I am a iOS app developer. 
+### iOS app developer. 
 
 <div>
 <div><img align="right" src="https://cdn.dribbble.com/users/389914/screenshots/6665910/__love_____.gif" alt="me" width="400" height="300"/><div>
